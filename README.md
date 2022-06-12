@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 Implementing Tableau
 This is project will be performed as one of the stakeholder like to see the Analysis of the bike sharing. For this analysis, we’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
  - Show the length of time that bikes are checked out for all riders and genders
