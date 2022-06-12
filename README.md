@@ -74,5 +74,5 @@ From the above analysis folowing conclusions are made:
  - The majority are the men on the gender data and also the usage of the services
  - The team have to work on the Women and other Gender categories.
  - Also if we change the filter we can find the list of the unuse services 
- - 
+ 
 ![](https://github.com/urvish7/bikesharing/blob/main/Screenshots/overall.png)
