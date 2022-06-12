@@ -40,3 +40,14 @@ This is project will be performed as one of the stakeholder like to see the Anal
 
 ### heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
 ![](https://github.com/urvish7/bikesharing/blob/main/Screenshots/customer_Subcriber_gender.png)
+
+## Deliverable 3: Create a Story and Report for the Final Presentation:
+
+![](https://github.com/urvish7/bikesharing/blob/main/Screenshots/pie_charts.png)
+
+
+![](https://github.com/urvish7/bikesharing/blob/main/Screenshots/Story.png)
+
+
+
+![](https://github.com/urvish7/bikesharing/blob/main/Screenshots/overall.png)
